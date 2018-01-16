@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gresources>
+	<gresource prefix="/">
+	<file>reset.css</file>
+	<file>ui.css</file>
+	</gresource>
+</gresources>

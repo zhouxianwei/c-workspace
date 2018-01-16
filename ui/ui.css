@@ -1,0 +1,10 @@
+@import url("resource://reset.css");
+
+window{
+	background-color: #fff;
+	color: #000;
+}
+
+button{
+	border: 1px #000 solid;
+}
